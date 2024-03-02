@@ -44,3 +44,7 @@ Comprobamos como podemos hacer ping al dns de google correctamente.
 ![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/206a7b7d-5fcd-4602-b020-11201f763f28)
 
 ### Contenedor Docker Apache
+Descargamos la imagen oficial de apache usando el comando docker pull httpd.
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/aee0a000-a856-49b3-9c58-53dd3ab201d1)
+
