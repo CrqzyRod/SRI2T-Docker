@@ -23,5 +23,14 @@ Verificamos la instalación.
 ![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/f68addc9-6668-431d-b820-0fc861bd6707)
 
 ### Contenedor Docker DNS
+Descargamos la imagen oficial de bind9 para ubuntu.
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/491f4d2a-51df-4348-b402-653391b8db13)
+
+Antes de crear el contenedor docker con dns vamos a crear nuestra propia red de docker usando el comando docker network create.
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/a0a7fe03-a0bd-4d05-8cf5-a2bd511ee551)
+
+
 
 ### Contenedor Docker Apache
