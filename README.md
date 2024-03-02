@@ -24,7 +24,13 @@ Verificamos la instalación.
 
 ### Contenedor Docker DNS
 
+Fichero docker compose DNS:
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/227036ce-41dd-4765-90a5-de0385fd7144)
 
 ### Contenedor Docker Apache
 
+Fichero docker compose Apache:
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/6dcc0ed2-126e-4673-a0c3-63104c2d91c9)
 
