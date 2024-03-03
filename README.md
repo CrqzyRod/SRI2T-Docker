@@ -41,5 +41,6 @@ Corremos el fichero docker compose de DNS:
 
 Fichero docker compose Apache:
 
-![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/6dcc0ed2-126e-4673-a0c3-63104c2d91c9)
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/9c28317a-53ef-48b5-b3f0-b27f843f9c11)
+
 
