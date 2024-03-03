@@ -43,4 +43,7 @@ Fichero docker compose Apache:
 
 ![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/9c28317a-53ef-48b5-b3f0-b27f843f9c11)
 
+Corremmos el fichero docker compose de Apache:
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/0d4ff4b4-5051-4a47-be64-c9ced0cbffee)
 
