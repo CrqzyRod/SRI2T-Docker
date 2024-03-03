@@ -22,11 +22,20 @@ Verificamos la instalación.
 
 ![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/f68addc9-6668-431d-b820-0fc861bd6707)
 
+### Requisitos previos
+Antes de correr ambos contenedores, crearemos una red de docker la cual usaremos en ambos contenedores.
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/dd6d67ff-b0f2-4cff-9528-03bf9e8f7548)
+
 ### Contenedor Docker DNS
 
 Fichero docker compose DNS:
 
-![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/227036ce-41dd-4765-90a5-de0385fd7144)
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/d4d49776-a0af-46c2-b1db-b617a66937a0)
+
+Corremos el fichero docker compose de DNS:
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/72fd5997-6754-40cc-b642-a38bdfde4a9c)
 
 ### Contenedor Docker Apache
 
