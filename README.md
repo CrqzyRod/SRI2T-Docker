@@ -47,3 +47,8 @@ Corremmos el fichero docker compose de Apache:
 
 ![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/0d4ff4b4-5051-4a47-be64-c9ced0cbffee)
 
+Comprobación funcionamiento Apache.
+
+Si realizamos un curl a localhost dentro del contenedor que tiene el servidor web Apache2, podemos comprobar como nos devuelve el texto por defecto de funcionamiento de Apache.
+
+![imagen](https://github.com/CrqzyRod/SRI2T-Docker/assets/122454007/7cacdce0-d37a-401d-92e9-67e0501bddfb)
